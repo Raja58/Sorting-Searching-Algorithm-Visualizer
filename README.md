@@ -81,7 +81,6 @@ value is highlighted green in colour.
 ## Contributing
 <h3>
 Contributions make the open-source community a fantastic place to learn, inspire, and create.
-<br />
 Any contributions made are greatly appreciated.
 <br />
 <br />
