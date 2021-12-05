@@ -8,6 +8,7 @@
 
   <h1 align="center">Sorting-Searching-Algorithm-Visualizer</h1>
 
+
   <p align="center">
     <b> For project report click below! </b>
     <br />
@@ -19,10 +20,14 @@
 
 
 
+
+
+
 <!-- TABLE OF CONTENTS -->
 
 <details>
     <summary><b>Table of Contents</b></summary>
+
   <ol>
     <li> <a href="#about-the-project">About The Project</a> </li>
     <li> <a href="#unique-features">Unique features</a> </li>
@@ -43,46 +48,38 @@
 ✓ Implemented 7 primary searching & sorting algorithms, including Merge Sort, Quick Sort, Insertion Sort and Binary Search and displayed data in a normalized bar graph structure.
    
 </h3>
-<p align="right">(<a href="#top">back to top</a>)</p>
   
 
 <div id="unique-features"></div>
 
 ## Unique features
   
-  <h3>
-➢ Unlike Dijkstra, the A* algorithm doesn’t search in all the possible directions.
-  <br>
-➢ Instead, it is a directed algorithm and tries to go in the most appropriate direction.
-  <br>
-  <br>
-  <br>
-  
-  
-  <image src = "https://github.com/Raja58/Advanced-Shortest-Path-Tracer/blob/main/Screenshot%20(605).png" align="center">
+➢ Once the sorting is in progress, all the bars gradually changes to light green colour, and at
+the end, all changes to green colour, denoting the sorting algorithm, is finished.
     <br>
-  <image src = "https://github.com/Raja58/Advanced-Shortest-Path-Tracer/blob/main/Screenshot%20(606).png" align="center">
-  
-  
+➢ If a searching algorithm is chosen, <b>if the displayed data is not sorted, then first Merge Sort
+    is executed and then the corresponding searching algorithm is executed</b>, and the search
+value is highlighted green in colour.
   <br>
-  <br>
-➢ In example shown above, the algorithm knows the destination is at the back of the
-barrier.
-   <br>
-➢ The algorithm always tries to go rightwards in each & every case.
-  <br>
-➢ Thus, we are neglecting many misdirected paths, which may not lead us to the destination.
-  <br>
-➢ A* algorithm is an empirical algorithm, which can be seen only in practice.
-  
-</h3>
+  <br>  
+  <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/Screenshot%20(607).png" align="center">
+    <br>
+    <br>
+  <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/Screenshot%20(608).png" align="center">
+ 
+➢ The speed of the simulation can be controlled using the speed scale.
+    <br>
+➢ Initally the bars are generated randomly, which has been taken care by the in-built random function.
+      <br>
+      <h3 style="background-color:powderblue;">For high-resolution images, kindly refer to this <a href="https://drive.google.com/file/d/17TOjgs-0-Qa-TaV3fLG0tg4EJV71XbWI/view"><strong>Report</strong></a>.</h3>
+                   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <div id="contributing"></div>
     
 <!-- CONTRIBUTING -->
 ## Contributing
-<h4>
+<h3>
 Contributions make the open-source community a fantastic place to learn, inspire, and create.
 <br />
 Any contributions made are greatly appreciated.
@@ -95,7 +92,7 @@ Open an issue with the tag "enhancement".
 Do not forget to give the project a star!
 <br />
 Thanks once again!
-</h4>
+</h3>
   
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -112,8 +109,6 @@ Thanks once again!
 
 📫 Reach me: &emsp;
  [![Linkedin](https://github.com/Raja58/ProShop-eCommerce/blob/main/in.jpg) LinkedIn](https://www.linkedin.com/in/raja58) &emsp; [![Email](https://github.com/Raja58/ProShop-eCommerce/blob/main/mail.jpg) Email](mailto:rajadurainit@gmail.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <div id="acknowledgments"></div>
